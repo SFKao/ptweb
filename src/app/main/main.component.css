@@ -1,0 +1,40 @@
+.main {
+    background-color: #303030;
+    height: 100%;
+}
+
+.search-box {
+    display: flex;
+    justify-content: center;
+}
+
+.search {
+    padding-top: 1%;
+    width: 80%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.show-pokemon {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+
+.stats-pokemon {
+    justify-content: center;
+    width: 48%;
+    padding-right: 2%;
+}
+
+.skills-pokemon {
+    justify-content: center;
+    width: 48%;
+    padding-left: 2%;
+}
+
+.card{
+    background-color: #424242;
+}

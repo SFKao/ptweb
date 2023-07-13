@@ -1,0 +1,68 @@
+{
+  "pokemon": [
+    {
+      "id": 645,
+      "nombre": "landorus-incarnate",
+      "urlSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png",
+      "hp": 89,
+      "atk": 125,
+      "def": 90,
+      "spa": 115,
+      "spd": 80,
+      "spe": 101,
+      "tipo1": "ground",
+      "tipo2": "flying",
+      "formas": [
+        {
+          "id": 645,
+          "nombre": "landorus-incarnate",
+          "urlSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png",
+          "hp": 89,
+          "atk": 125,
+          "def": 90,
+          "spa": 115,
+          "spd": 80,
+          "spe": 101,
+          "tipo1": "ground",
+          "tipo2": "flying",
+          "formas": null
+        },
+        {
+          "id": 10021,
+          "nombre": "landorus-therian",
+          "urlSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10021.png",
+          "hp": 89,
+          "atk": 145,
+          "def": 90,
+          "spa": 105,
+          "spd": 80,
+          "spe": 91,
+          "tipo1": "ground",
+          "tipo2": "flying",
+          "formas": null
+        }
+      ],
+      "habilidades": [
+        {
+          "nombre": "Vuelo",
+          "descripcion": "Puede volar",
+          "iconUrl": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/8/8c/LOL_Logo.png/revision/latest?cb=20180119195439&path-prefix=es"
+        },
+        {
+          "nombre": "Inmune veneno",
+          "descripcion": "Es inmune al veneno",
+          "iconUrl": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/8/8c/LOL_Logo.png/revision/latest?cb=20180119195439&path-prefix=es"
+        }
+      ],
+      "bloqueo": {
+        "categoriaFisico": 2,
+        "categoriaEspecial": 1
+      },
+      "ataque": {
+        "categoriaFisico": 0,
+        "categoriaEspecial": 3
+      },
+      "movimiento": 3
+    }
+  ]
+}
